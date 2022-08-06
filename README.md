@@ -24,7 +24,7 @@
 
 
 <h3>Technologies:</h3>
-	<div style="display: inline-block"><br>
+	<div style="display: inline-block">
 	 	<img alt="HTMLl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 		<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
