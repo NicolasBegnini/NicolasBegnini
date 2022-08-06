@@ -1,7 +1,8 @@
 <div>
   <h1>Welcome to my GitHub!</h1>				
-  <h3>I'm Nícolas Begnini :man_technologist:	</h3>			
+  <h3>I'm Nícolas Begnini :man_technologist:</h3>			
 </div>
+<hr>
 
 
 <div>
@@ -33,5 +34,5 @@
 <br>
 <hr>
 <div style="display:flex;align-items:center;justify-content:center;">
-	<a href="https://www.linkedin.com/in/nicolas-begnini-leite-577089246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	<a href="https://www.linkedin.com/in/nicolas-begnini-leite-577089246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
