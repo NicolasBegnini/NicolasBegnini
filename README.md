@@ -5,7 +5,7 @@
 
 
 <div>
-	<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=NicolasBegnini&theme=vision-friendly-dark&show_icons=true" >
+	<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=NicolasBegnini&theme=vision-friendly-dark&show_icons=true" >
 
 - :computer: Front-end Developer
 - :man_student: Systems development student
@@ -17,10 +17,8 @@
 <br>
 
 <hr>
-
-
 <div>
-<img width="50%" align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBegnini&layout=compact&theme=vision-friendly-dark&langs_count=8&show_icons=true"/>
+<img width="50%" align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBegnini&layout=compact&theme=vision-friendly-dark&langs_count=8&show_icons=true"/>
 
 
 <h3>Languages:</h3>
