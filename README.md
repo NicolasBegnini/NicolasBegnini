@@ -20,7 +20,7 @@
 
 <hr>
 <div>
-<img width="50%" custom_title="nicolas meu readme" align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBegnini&layout=compact&theme=vision-friendly-dark&langs_count=8&show_icons=true"/>
+<img width="50%" custom-title="nicolas meu readme" align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBegnini&layout=compact&theme=vision-friendly-dark&langs_count=8&show_icons=true"/>
 
 
 <h3>Technologies:</h3>
