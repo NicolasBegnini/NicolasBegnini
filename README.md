@@ -13,7 +13,7 @@
 - :man_student: Systems development student<br>
 - :books:	 Learning React Native and JavaScrip<br>
 - :round_pushpin:	Living in Brazil :brazil:<br>	
-- :birthday: 17 years old<br>
+- :birthday: 18 years old<br>
 </div>
 <br>
 <br>
