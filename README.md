@@ -9,7 +9,7 @@
 	<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=NicolasBegnini&theme=vision-friendly-dark&show_icons=true" >
 
 <h3>About me:</h3>
-- :computer: Front-end Developer<br>
+- :computer: Full Stack Developer<br>
 - :man_student: Systems development student<br>
 - :books:	 Learning React Native and JavaScrip<br>
 - :round_pushpin:	Living in Brazil :brazil:<br>	
