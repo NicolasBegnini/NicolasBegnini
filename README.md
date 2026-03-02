@@ -10,11 +10,10 @@
 
 <h3>About me:</h3>
 - :computer: SRE<br>
-- :man_student: SRE<br>
-- :round_pushpin:	Living in Brazil :brazil:<br>	
+- :man_student: Postgrad Student in Software Architecture and AI Solutions - XP Educação<br>
+- :round_pushpin: Brazil :brazil:<br>	
 - :birthday: 21 years old<br>
 </div>
-<br>
 <br>
 
 <hr>
