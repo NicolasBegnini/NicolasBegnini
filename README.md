@@ -9,11 +9,10 @@
 	<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=NicolasBegnini&theme=vision-friendly-dark&show_icons=true" >
 
 <h3>About me:</h3>
-- :computer: Full Stack Developer<br>
-- :man_student: Systems development student<br>
-- :books:	 Learning React Native and JavaScrip<br>
+- :computer: SRE<br>
+- :man_student: SRE<br>
 - :round_pushpin:	Living in Brazil :brazil:<br>	
-- :birthday: 18 years old<br>
+- :birthday: 21 years old<br>
 </div>
 <br>
 <br>
